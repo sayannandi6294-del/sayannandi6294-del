@@ -110,17 +110,6 @@
 A chatbot project focused on interactive communication and smart responses.
 
 🔗 [View Repository](https://github.com/sayannandi6294-del/Bit-Chatbot)
-
-### 💰 Expense Tracker Project
-A project focused on managing and tracking daily expenses.
-
-🔗 [View Repository](https://github.com/sayannandi6294-del/expense_tracker_project)
-
-### 📝 Quiz Portal
-A quiz-based application designed for interactive learning and assessment.
-
-🔗 [View Repository](https://github.com/sayannandi6294-del/quize_portal)
-
 ---
 
 ## 🎯 Current Goals
