@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 I'm a **2nd-year B.Tech CSE (Cyber Security)** student at Brainware University, India.
+- 🎓 I'm a **2nd-year B.Tech CSE (Cyber Security)** student at Brainware University, West Bengal, India.
 - 🌱 Learning **Cyber Security, AI/ML, Data Structures & Full-Stack Development**.
 - 👯 Interested in collaborating on open-source and innovative projects.
 - 💻 Interested in Python, C, C++, JavaScript and Web Development.
